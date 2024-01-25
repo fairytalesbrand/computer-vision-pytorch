@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pytorch.org/docs/stable/_static/images/logo-dark.svg" alt="Desktop Unity Logo" width="80">
+  <img src="https://pytorch.org/docs/stable/_static/images/logo-dark.svg" alt="PyTorch Logo" width="180">
 </p>
 
 <h1 align="center"> PyTorch Computer Vision with ConvNets </h>
